@@ -8,6 +8,7 @@ This dataset provides insight into the prevalence and trends in tobacco use acro
    
 
 **About this file**
+
 This dataset contains the prevalence and trends in tobacco use across the United States from 1995-2010, broken down by state:
 
 

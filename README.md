@@ -7,7 +7,7 @@ This dataset provides insight into the prevalence and trends in tobacco use acro
 3. Developing visualization maps that show changes in tobacco consumption prevalence (and related health risk factors) by location on an interactive website or tool for public consumption of data insights from this dataset
 
 **About this file**
-This dataset contains the prevalence and trends in tobacco use across the United States from 1995-2010, broken down by state
+This dataset contains the prevalence and trends in tobacco use across the United States from 1995-2010, broken down by state:
 
 
 **Year:** Year of the data (Integer)

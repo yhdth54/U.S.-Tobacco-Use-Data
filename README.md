@@ -4,7 +4,8 @@ This dataset provides insight into the prevalence and trends in tobacco use acro
 **Research Ideas**
 1. Comparing regional and state-level smoking rates and trends over time.
 2. Analyzing how different demographics are affected by state-level smoking trends, such as comparing gender or age-based differences in prevalence and/or decreasing or increasing rates of tobacco use at the regional level over time.
-3. Developing visualization maps that show changes in tobacco consumption prevalence (and related health risk factors) by location on an interactive website or tool for public consumption of data insights from this dataset
+3. Developing visualization maps that show changes in tobacco consumption prevalence (and related health risk factors) by location on an interactive website or tool for public consumption of data insights from this dataset.
+   
 
 **About this file**
 This dataset contains the prevalence and trends in tobacco use across the United States from 1995-2010, broken down by state:

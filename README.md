@@ -9,10 +9,17 @@ This dataset provides insight into the prevalence and trends in tobacco use acro
 **About this file**
 This dataset contains the prevalence and trends in tobacco use across the United States from 1995-2010, broken down by state
 
+
 Year: Year of the data (Integer)
+
 State: Name of the state (String)
+
 Smoke everyday: Percentage of people who smoke every day (Float)
+
 Smoke some days: Percentage of people who smoke some days (Float)
+
 Former smoker: Percentage of people who used to smoke (Float)
+
 Never smoked: Percentage of people who have never smoked (Float)
+
 Location 1: Location of the state (String)

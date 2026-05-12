@@ -1,0 +1,5 @@
+pandas. Used for:reading datasets, cleaning data, analyzing tables
+numpy. Used for:numerical operations, arrays, mathematical computations
+matplotlib. Used for:graphs, charts, visualizations
+jupyter. Used for notebooks. It powers:.ipynb, interactive coding
+scikit-learn. It provides tools for:training ML models, splitting datasets, evaluating accuracy, preprocessing data. Without it we cannot build ML models properly.
